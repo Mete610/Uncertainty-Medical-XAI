@@ -156,4 +156,4 @@ Bu script, görselleri tarar ve toplamda tam 6GB olacak şekilde bir subset seç
 
 <!-- simulation-step-18 -->
 
-<!-- contribution-fix-7 -->
+<!-- contribution-fix-8 -->
